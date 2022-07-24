@@ -2,10 +2,10 @@
 
 
 🔭 Career
-- Internship at AIRC-KETI (2022.04 ~ )
+- Internship at AIRC-KETI (2022.04 ~ Present)
 
 🌱 Education
-- B.S. in Information Convergence, Kwangwoon University (2017.02 ~ )
+- B.S. in Information Convergence, Kwangwoon University (2017.02 ~ Present)
 
 😄 Interests
 - NLP, Machine Learning, Data Analysis
