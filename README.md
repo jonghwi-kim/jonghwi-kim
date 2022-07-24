@@ -6,9 +6,11 @@
 
 #### 🌱 Education
 - B.S. in Information Convergence, Kwangwoon University (2017.02 ~ Present)
+  - Major : Data Science
+  - Interdisciplinary Course : Financial Engineering & FinTech
 
 #### ⚡ Interests
-- NLP, Machine Learning, Data Analysis
+- NLP, Machine Learning, Data Analysis, Finance
 
 #### 😄 Curriculum Vitae
 - [CV](https://github.com/jonghwi-kim/CV/blob/main/Hwi_s_CV.pdf)
