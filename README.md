@@ -1,14 +1,16 @@
 ### JongHwi Kim👋
 
 
-🔭 Career
+#### 🔭 Career
 - Internship at AIRC-KETI (2022.04 ~ Present)
 
-🌱 Education
+#### 🌱 Education
 - B.S. in Information Convergence, Kwangwoon University (2017.02 ~ Present)
 
-😄 Interests
+#### 😄 Interests
 - NLP, Machine Learning, Data Analysis
+
+My CV [Here]<https://github.com/jonghwi-kim/CV/blob/main/Hwi_s_CV.pdf>
 
 
 <!--
