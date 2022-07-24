@@ -10,7 +10,7 @@
 #### 😄 Interests
 - NLP, Machine Learning, Data Analysis
 
-My CV * [Here]<https://github.com/jonghwi-kim/CV/blob/main/Hwi_s_CV.pdf>
+My CV [Here](https://github.com/jonghwi-kim/CV/blob/main/Hwi_s_CV.pdf)
 
 
 <!--
