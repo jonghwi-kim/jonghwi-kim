@@ -10,8 +10,8 @@
 #### ⚡ Interests
 - NLP, Machine Learning, Data Analysis
 
-#### 😄 CV
-- [Here](https://github.com/jonghwi-kim/CV/blob/main/Hwi_s_CV.pdf)
+#### 😄 Curriculum Vitae
+- [CV](https://github.com/jonghwi-kim/CV/blob/main/Hwi_s_CV.pdf)
 
 ![Hwi's github stats](https://github-readme-stats.vercel.app/api?username=jonghwi-kim&show_icons=true)
 
