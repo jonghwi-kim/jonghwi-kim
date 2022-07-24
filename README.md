@@ -1,7 +1,7 @@
 ### JongHwi Kim👋
 
 
-#### 🔭 Career
+#### 🔭 Work Experience
 - Internship at AIRC-KETI (2022.04 ~ Present)
 
 #### 🌱 Education
