@@ -13,7 +13,7 @@
 - NLP, Machine Learning, Data Analysis, Finance
 
 #### 😄 Curriculum Vitae
-- [CV](https://github.com/jonghwi-kim/CV/blob/main/Hwi_s_CV.pdf)
+- [Here](https://github.com/jonghwi-kim/CV/blob/main/Hwi_s_CV.pdf)
 
 ![Hwi's github stats](https://github-readme-stats.vercel.app/api?username=jonghwi-kim&show_icons=true)
 
