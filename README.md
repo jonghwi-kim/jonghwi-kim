@@ -1,6 +1,11 @@
 ### Hi 👋
 
-- 🔭 I’m currently working on AIRC-KETI
+
+####Work Experience
+- Internship at AIRC-KETI (2022.04 ~ )
+
+####Education
+- B.S. in Information Convergence, Kwangwoon University (2017.02 ~ )
 
 
 <!--
