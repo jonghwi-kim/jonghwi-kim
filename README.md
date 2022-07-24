@@ -7,10 +7,11 @@
 #### 🌱 Education
 - B.S. in Information Convergence, Kwangwoon University (2017.02 ~ Present)
 
-#### 😄 Interests
+#### ⚡ Interests
 - NLP, Machine Learning, Data Analysis
 
-My CV [Here](https://github.com/jonghwi-kim/CV/blob/main/Hwi_s_CV.pdf)
+#### 😄 CV
+[Here](https://github.com/jonghwi-kim/CV/blob/main/Hwi_s_CV.pdf)
 
 
 <!--
