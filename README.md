@@ -1,11 +1,5 @@
 ### JongHwi Kim👋
 
-
-#### 🔭 Work Experience
-
-- Internship at AIRC-KETI (2022.04 ~ 2022.11)
-
-
 #### 🌱 Education
 
 - M.S. in Graduate School of Artificial Intelligence, POSTECH (2023.02 ~ 2025.02)
@@ -15,7 +9,12 @@
   - Major : Data Science
 
 
-#### ⚡ Interests
+#### 🔭 Work Experience
+
+- Internship at AIRC-KETI (2022.04 ~ 2022.11)
+
+
+#### ⚡ Research Interests
 - NLP, Information Retrieval, Cross-modal Retrieval, Cross-lingual Retrieval, Cross-lingual Transfer Learning, Multi-modal learning
 
 #### 😄 Curriculum Vitae
