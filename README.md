@@ -15,7 +15,7 @@
 
 
 #### ⚡ Research Interests
-- NLP, Information Retrieval, Cross-modal Retrieval, Cross-lingual Retrieval, Cross-lingual Transfer Learning, Multi-modal learning
+- NLP, Information Retrieval, Cross-lingual Retrieval, Cross-lingual Transfer Learning, Cross-modal Retrieval, Multi-modal learning
 
 #### 😄 Curriculum Vitae
 - [Here](https://github.com/jonghwi-kim/CV/blob/main/Hwi_s_CV.pdf)
