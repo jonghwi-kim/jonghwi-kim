@@ -19,7 +19,7 @@
 - Keywords : Cross-Language \& Multi-Language Information Retrieval, Cross-lingual Transfer, Code-Switching, ColBERT Architecture
 
 #### 😄 Curriculum Vitae
-- [Here](https://github.com/jonghwi-kim/CV/blob/main/Hwi_s_CV.pdf)
+- [Here](https://github.com/jonghwi-kim/CV/blob/main/Jonghwi_Kim_CV_20240907.pdf)
 
 
 
