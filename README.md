@@ -27,17 +27,17 @@
  
 
 #### 📄 Publications
-- **Jonghwi Kim**, Deokhyung Kang, Seonjeong Hwang, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee. (2025). *MiLQ: Benchmarking IR Models for Bilingual Web Search with Mixed Language Queries.* arXiv preprint arXiv:2505.16631. [[paper]](https://arxiv.org/pdf/2505.16631)
-- Daehee Kim, Deokhyung Kang, **Jonghwi Kim**, Sangwon Ryu, Gary Geunbae Lee. (2025). *GuRE: Generative Query REwriter for Legal Passage Retrieval.* arXiv preprint arXiv:2505.12950. [[paper]](https://arxiv.org/pdf/2505.12950)
-- San Kim, **Jonghwi Kim**, Yejin Jeon, Gary Geunbae Lee. (2025). *Safeguarding RAG Pipelines with GMTP: A Gradient-based Masked Token Probability Method for Poisoned Document Detection.* In Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2025 findings).
-- Heejin Do, Sangwon Ryu, **Jonghwi Kim**, Gary Geunbae Lee. (2025). *Multi-Facet Blending for Faceted Query-by-Example Retrieval.* In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2025 main). [[Paper]](https://arxiv.org/pdf/2412.01443)
-- **Jonghwi Kim**, Yunsu Kim, Gary Geunbae Lee. (2023). *ColBERT with Adversarial Language Adaptation for Multilingual Information Retrieval.* In Proceedings of the Annual Conference on Human and Cognitive Language Technology (HCLT 2023 oral), pp. 239–244. [[Paper]](https://koreascience.kr/article/CFKO202306643316323.pdf)
-- **Jonghwi Kim**, Saim Shin, Jin Yea Jang. (2022). *A Clustering-based Undersampling Method to Prevent Information Loss from Text Data.* In Proceedings of the Annual Conference on Human and Cognitive Language Technology (HCLT 2022 oral), pp. 251–256. [[Paper]](https://koreascience.kr/article/CFKO202226455345277.pdf)
+- **Jonghwi Kim**, Deokhyung Kang, Seonjeong Hwang, Yunsu Kim, Jungseul Ok, Gary Geunbae Lee. (2025). ***MiLQ: Benchmarking IR Models for Bilingual Web Search with Mixed Language Queries.*** (EMNLP 2025 main). [[Paper]](https://arxiv.org/pdf/2505.16631)
+- Daehee Kim, Deokhyung Kang, **Jonghwi Kim**, Sangwon Ryu, Gary Geunbae Lee. (2025). ***GuRE: Generative Query REwriter for Legal Passage Retrieval.*** arXiv preprint arXiv:2505.12950. [[Paper]](https://arxiv.org/pdf/2505.12950)
+- San Kim, **Jonghwi Kim**, Yejin Jeon, Gary Geunbae Lee. (2025). ***Safeguarding RAG Pipelines with GMTP: A Gradient-based Masked Token Probability Method for Poisoned Document Detection.*** In Findings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2025 findings). [[Paper]](https://aclanthology.org/2025.findings-acl.1263.pdf)
+- Heejin Do*, Sangwon Ryu*, **Jonghwi Kim**, Gary Geunbae Lee. (2025). ***Multi-Facet Blending for Faceted Query-by-Example Retrieval.*** In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2025 main). [[Paper]](https://aclanthology.org/2025.acl-long.1388.pdf)
+- **Jonghwi Kim**, Yunsu Kim, Gary Geunbae Lee. (2023). ***ColBERT with Adversarial Language Adaptation for Multilingual Information Retrieval.*** In Proceedings of the Annual Conference on Human and Cognitive Language Technology (HCLT 2023 oral), pp. 239–244. [[Paper]](https://koreascience.kr/article/CFKO202306643316323.pdf)
+- **Jonghwi Kim**, Saim Shin, Jin Yea Jang. (2022). ***A Clustering-based Undersampling Method to Prevent Information Loss from Text Data.*** In Proceedings of the Annual Conference on Human and Cognitive Language Technology (HCLT 2022 oral), pp. 251–256. [[Paper]](https://koreascience.kr/article/CFKO202226455345277.pdf)
 
  
 
 #### 😄 Curriculum Vitae
-- [Here (Updated on 2025.05.27.)](https://github.com/jonghwi-kim/CV/blob/main/Korean_CV_250527.pdf)
+- [Here (Updated on 2025.08.21.)](https://github.com/jonghwi-kim/CV/blob/main/Korean_CV_250821.pdf)
 
 
 
