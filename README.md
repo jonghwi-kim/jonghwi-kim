@@ -2,6 +2,8 @@
 
 I am an AI Engineer solving real-world problems with state-of-the-art LLMs, deep learning methods, and data analysis. During my time in academia, my main research area was Information Retrieval and RAG systems under diverse language scenarios — such as Cross- and Mixed-Language Information Retrieval. Drawing on these diverse research experiences, I now focus on building and serving AI services that deliver meaningful value to the people who use them.
 
+**[📑 CV](https://github.com/jonghwi-kim/CV/blob/main/Korean_CV_260910.pdf)** (Updated on 2026.09.10) · [LinkedIn](https://www.linkedin.com/in/jonghwi-kim-605601255/) · [Google Scholar](https://scholar.google.com/citations?user=rtYQgX4AAAAJ&hl=ko) · [ACL Anthology](https://aclanthology.org/people/jonghwi-kim/unverified/)
+
 #### 🔭 Work Experience
 
 - AI Engineer, DT Innovation Team, LINA ONE (2026.01 - Present)
@@ -31,6 +33,7 @@ I am an AI Engineer solving real-world problems with state-of-the-art LLMs, deep
 
   - Major : Data Science
 
+
 #### ⚡ Research Interests
 
 - Keywords : Information Retrieval, RAG, Re-ranking, Voice-Agent System, Agentic System, Cross-lingual Transfer, Code-Switching
@@ -49,15 +52,7 @@ I am an AI Engineer solving real-world problems with state-of-the-art LLMs, deep
 
 - Reviewer: MRL Workshop
 
-#### 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/in/jonghwi-kim-605601255/)
-- [Google Scholar](https://scholar.google.com/citations?user=rtYQgX4AAAAJ&hl=ko)
-- [ACL Anthology](https://aclanthology.org/people/jonghwi-kim/unverified/)
-
-
-#### 😄 Curriculum Vitae
-- [Here (Updated on 2026.09.10.)](https://github.com/jonghwi-kim/CV/blob/main/Korean_CV_260910.pdf)
 
 
 
