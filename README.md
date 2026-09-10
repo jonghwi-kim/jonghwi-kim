@@ -57,7 +57,7 @@ I am an AI Engineer solving real-world problems with state-of-the-art LLMs, deep
 
 
 #### 😄 Curriculum Vitae
-- [Here (Updated on 2025.08.21.)](https://github.com/jonghwi-kim/CV/blob/main/Korean_CV_250821.pdf)
+- [Here (Updated on 2026.09.10.)](https://github.com/jonghwi-kim/CV/blob/main/Korean_CV_260910.pdf)
 
 
 
